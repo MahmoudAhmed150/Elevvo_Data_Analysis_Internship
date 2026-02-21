@@ -23,7 +23,7 @@ Analyzed the Titanic dataset to explore the key factors influencing passenger su
 Python, Pandas, Matplotlib, Seaborn, NumPy, Jupyter Notebook
 
 ### 📊 Dataset
-Available on Kaggle: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+Available on Kaggle: Titanic: Machine Learning from Disaster
 
 ---
 
@@ -43,7 +43,7 @@ Analyzed an online retail dataset to calculate RFM (Recency, Frequency, Monetary
 Python, Pandas, Matplotlib, Seaborn
 
 ### 📊 Dataset
-Available on Kaggle: [Online Retail Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+Available on Kaggle: Online Retail Dataset
 
 ---
 
@@ -65,7 +65,7 @@ Analyzed Kaggle Data Science Survey dataset (6M+ responses) to explore trends in
 Python, Pandas, Seaborn
 
 ### 📊 Dataset
-Available on Kaggle: [Kaggle Data Science Survey](https://www.kaggle.com/c/kaggle-survey-2017)
+Available on Kaggle: Kaggle Data Science Survey
 
 ---
 
@@ -88,7 +88,7 @@ Analyzed Walmart retail sales data to uncover revenue trends, seasonal patterns,
 Python, Pandas, Matplotlib, Seaborn, Statsmodels
 
 ### 📊 Dataset
-Available on Kaggle: [Walmart Sales Dataset](https://www.kaggle.com/datasets/tsarina/walmart-sales-data)
+Available on Kaggle: Walmart Sales Dataset
 
 ---
 
